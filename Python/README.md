@@ -1,0 +1,2 @@
+The "partitionunity" directory contains the source code of the package.
+The file "usage_example.py" is an example of initialization of variables. It produce some evaluation and generates plots for the absolute error and the computation time.

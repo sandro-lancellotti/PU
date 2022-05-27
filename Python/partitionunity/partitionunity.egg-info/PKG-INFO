@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: partitionunity
+Version: 1.0.0
+Summary: Evaluate PU interpolant
+Home-page: https://github.com/sandro-lancellotti/PU
+Author: R. Cavoretto, A. De Rossi, S. Lancellotti, E. Perracchione
+Author-email: roberto.cavoretto@unito.it, alessandra.derossi@unito.it, sandro.lancellotti@unito.it, emma.perracchione@polito.it
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+The package provide the implementation of partition of unity method. 
+
+
+For usage example see at: https://github.com/sandro-lancellotti/PU
+
+
+For detail about implementation see R. Cavoretto, A. De Rossi, E. Perracchione, S. Lancellotti, 
+Software Implementation of the Partition of Unity Method, preprint
+\
+\
+Cite as R. Cavoretto, A. De Rossi, E. Perracchione, S. Lancellotti, 
+Software Implementation of the Partition of Unity Method, preprint
+
+

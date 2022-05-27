@@ -1,0 +1,12 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+partitionunity/__init__.py
+partitionunity/partialunity.py
+partitionunity.egg-info/PKG-INFO
+partitionunity.egg-info/SOURCES.txt
+partitionunity.egg-info/dependency_links.txt
+partitionunity.egg-info/requires.txt
+partitionunity.egg-info/top_level.txt
